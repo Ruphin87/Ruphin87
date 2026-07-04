@@ -4,7 +4,8 @@ Actuellement étudiant à l'**École Nationale d'Informatique (ENI)**, je suis p
 
 ---
 
-Mes Domaines d'Intérêt
+Mes Domaines d'Intérêt:
+
    Cybersécurité : Sécurisation Applcation Web et d'objets connectés.
    Intelligence Artificielle & Data : Analyse de données, assistants intelligents.
    Développement : Applications mobiles, logiciels de vente et solutions Web.
