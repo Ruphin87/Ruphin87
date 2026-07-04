@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Ruphin Henri RATAHINJANAHARY
+ Salut, moi c'est Ruphin Henri RATAHINJANAHARY
 
 Actuellement étudiant à l'**École Nationale d'Informatique (ENI)**, je suis passionné par le développement, la sécurité des systèmes et l'intelligence artificielle.
 
