@@ -29,4 +29,4 @@ Développement Mobile, Web & IoT
 ---
 
 Me contacter
-* **LinkedIn :https://www.linkedin.com/in/ruphin-henri-ratahinjanahary-635027420/?skipRedirect=true
+* **LinkedIn :www.linkedin.com/in/ruphin-henri-ratahinjanahary-635027420
