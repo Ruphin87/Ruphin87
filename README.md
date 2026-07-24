@@ -1,11 +1,13 @@
 <!-- BANNIÈRE DYNAMIQUE ET ANIMATION D'ACCUEIL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Ruphin%20Henri%20RATAHINJANAHARY&fontSize=32&animation=fadeIn&fontColor=ffffff&desc=Etudiant%20a%20ENI%20|%20IoT,%20Cybersecurite%20%26%20IA&descSize=18&descAlignY=62" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=100&lines=Ruphin+Henri+RATAHINJANAHARY;Etudiant+a+ENI+|+IoT,+Cybersecurite+%26+IA;Passionne+par+le+Developpement+%26+l%27IoT" alt="Header Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Salut+%2B+moi+c'est+Ruphin+Henri!;Passionne+par+le+Developpement+%26+l'IoT;Expertise+en+Cybersecurite;Explorateur+de+l'Intelligence+Artificielle" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Salut+%2B+moi+c%27est+Ruphin+Henri!;Expertise+en+Cybersecurite;Explorateur+de+l%27Intelligence+Artificielle" alt="Typing SVG" />
   </a>
 </p>
 
@@ -44,7 +46,6 @@ Actuellement étudiant à l'**École Nationale d'Informatique (ENI)**, je me pas
 
 ---
 
-## 📂 Projets Phares
 
 ## 🛠️ Stack Technique
 
