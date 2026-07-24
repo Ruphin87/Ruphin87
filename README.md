@@ -46,20 +46,6 @@ Actuellement étudiant à l'**École Nationale d'Informatique (ENI)**, je me pas
 
 ## 📂 Projets Phares
 
-📂 PROJETS
-├── 🛡️ Cybersécurité & IoT
-│    ├── 🌾 Securisation_ferme_IOT : Protection & chiffrement des flux capteurs
-│    └── 🖥️ Securisation_Serveur   : Durcissement de la sécurité système & serveur
-│
-├── 🤖 Intelligence Artificielle
-│    ├── 🏥 Assistant_Sante_AI     : Assistant intelligent dédié à la santé
-│    └── 🗺️ Guide_Bongolava_AI     : Guide touristique IA pour la région Bongolava
-│
-└── 💻 Développement Mobile, Web & IoT
-├── ⚡ SmartAgri_ESP32_IOT    : Système d'agriculture automatisé (ESP32)
-├── 💬 App_message_mobile     : Messagerie mobile en temps réel
-└── 🛍️ Application_Vente & village-reactjs : Gestion de vente & plateformes Web
-
 ## 🛠️ Stack Technique
 
 <p align="left">
