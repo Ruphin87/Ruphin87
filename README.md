@@ -1,25 +1,25 @@
 <!-- BANNIÈRE DYNAMIQUE ET ANIMATION D'ACCUEIL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Ruphin%20Henri%20RATAHINJANAHARY&fontSize=38&animation=fadeIn&fontColor=ffffff&desc=%C3%89tudiant%20%C3%A0%20l'ENI%20%7C%20IoT,%20Cybers%C3%A9curit%C3%A9%20%26%20IA&descSize=18&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Ruphin%20Henri%20RATAHINJANAHARY&fontSize=32&animation=fadeIn&fontColor=ffffff&desc=Etudiant%20a%20ENI%20|%20IoT,%20Cybersecurite%20%26%20IA&descSize=18&descAlignY=62" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Salut+%2B+moi+c'est+Ruphin+Henri!;;Passionn%C3%A9+par+le+D%C3%A9veloppement+%26+l'IoT;Expertise+en+Cybers%C3%A9curit%C3%A9;Explorateur+de+l'Intelligence+Artificielle" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Salut+%2B+moi+c'est+Ruphin+Henri!;Passionne+par+le+Developpement+%26+l'IoT;Expertise+en+Cybersecurite;Explorateur+de+l'Intelligence+Artificielle" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/ruphin-henri-ratahinjanahary-635027420"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Status-Étudiant%20ENI-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-IoT%20%26%20Security-green?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/ruphin-henri-ratahinjanahary-635027420"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Status-Etudiant_ENI-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-IoT_%26_Security-green?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🎓 À propos de moi
 
- Actuellement étudiant à l'**École Nationale d'Informatique (ENI)**, je me passionne pour la création de solutions technologiques sécurisées et intelligentes, allant des systèmes embarqués IoT aux applications mobiles et modèles d'IA.
+Actuellement étudiant à l'**École Nationale d'Informatique (ENI)**, je me passionne pour la création de solutions technologiques sécurisées et intelligentes, allant des systèmes embarqués IoT aux applications mobiles et modèles d'IA.
 
 ---
 
@@ -45,3 +45,51 @@
 ---
 
 ## 📂 Projets Phares
+
+📂 PROJETS
+├── 🛡️ Cybersécurité & IoT
+│    ├── 🌾 Securisation_ferme_IOT : Protection & chiffrement des flux capteurs
+│    └── 🖥️ Securisation_Serveur   : Durcissement de la sécurité système & serveur
+│
+├── 🤖 Intelligence Artificielle
+│    ├── 🏥 Assistant_Sante_AI     : Assistant intelligent dédié à la santé
+│    └── 🗺️ Guide_Bongolava_AI     : Guide touristique IA pour la région Bongolava
+│
+└── 💻 Développement Mobile, Web & IoT
+├── ⚡ SmartAgri_ESP32_IOT    : Système d'agriculture automatisé (ESP32)
+├── 💬 App_message_mobile     : Messagerie mobile en temps réel
+└── 🛍️ Application_Vente & village-reactjs : Gestion de vente & plateformes Web
+
+## 🛠️ Stack Technique
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ruphin87&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruphin87&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📬 Me Contacter
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ruphin-henri-ratahinjanahary-635027420">
+    <img src="https://img.shields.io/badge/LinkedIn-Connecter-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+</p>
