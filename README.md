@@ -1,7 +1,7 @@
 <!-- BANNIÈRE DYNAMIQUE ET ANIMATION D'ACCUEIL -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=100&lines=Ruphin+Henri+RATAHINJANAHARY;Etudiant+a+ENI+|+IoT,+Cybersecurite+%26+IA;Passionne+par+le+Developpement+%26+l%27IoT" alt="Header Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=100&lines=Ruphin+Henri+RATAHINJANAHARY;Etudiant+a+l%27ENI+|+IoT,+Cybersecurite+%26+IA;Passionne+par+le+Developpement+%26+l%27IoT" alt="Header Typing SVG" />
   </a>
 </p>
 
@@ -46,7 +46,6 @@ Actuellement étudiant à l'**École Nationale d'Informatique (ENI)**, je me pas
 
 ---
 
-
 ## 🛠️ Stack Technique
 
 <p align="left">
@@ -63,8 +62,8 @@ Actuellement étudiant à l'**École Nationale d'Informatique (ENI)**, je me pas
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ruphin87&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruphin87&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruphin87&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ruphin87&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -78,5 +77,5 @@ Actuellement étudiant à l'**École Nationale d'Informatique (ENI)**, je me pas
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" width="100%"/>
 </p>
