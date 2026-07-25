@@ -19,26 +19,26 @@
 
 ---
 
-## 🎓 À propos de moi
+## À propos de moi
 
 Actuellement étudiant à l'**École Nationale d'Informatique (ENI)**, je me passionne pour la création de solutions technologiques sécurisées et intelligentes, allant des systèmes embarqués IoT aux applications mobiles et modèles d'IA.
 
 ---
 
-## 🚀 Mes Domaines d'Expertise
+## Mes Domaines d'Expertise
 
 <table align="center" width="100%">
   <tr>
     <td width="33%" align="center">
-      <h3>🛡️ Cybersécurité & IoT</h3>
+      <h3> Cybersécurité & IoT</h3>
       <p>Sécurisation des applications web, durcissement réseau et protection des objets connectés.</p>
     </td>
     <td width="33%" align="center">
-      <h3>🤖 IA & Data</h3>
+      <h3> IA & Data</h3>
       <p>Analyse de données, assistants virtuels intelligents et modèles prédictifs.</p>
     </td>
     <td width="33%" align="center">
-      <h3>📱 Développement Solutions</h3>
+      <h3> Développement Solutions</h3>
       <p>Conception d'applications mobiles, plateformes Web interactives et logiciels de gestion.</p>
     </td>
   </tr>
@@ -46,7 +46,7 @@ Actuellement étudiant à l'**École Nationale d'Informatique (ENI)**, je me pas
 
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 
 <p align="left">
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
@@ -59,7 +59,7 @@ Actuellement étudiant à l'**École Nationale d'Informatique (ENI)**, je me pas
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruphin87&theme=tokyonight&hide_border=true" />
@@ -68,7 +68,7 @@ Actuellement étudiant à l'**École Nationale d'Informatique (ENI)**, je me pas
 
 ---
 
-## 📬 Me Contacter
+## Me Contacter
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruphin-henri-ratahinjanahary-635027420">
