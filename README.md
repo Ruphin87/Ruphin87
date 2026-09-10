@@ -13,7 +13,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruphin-henri-ratahinjanahary-635027420"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Status-Etudiant_ENI-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-IoT_%26_Security-green?style=for-the-badge" />
 </p>
 
