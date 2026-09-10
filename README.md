@@ -7,6 +7,7 @@
   <tr>
     <td width="25%" align="center">
       <img src="photo-float.svg" width="150" alt="Photo de profil animée" />
+      <img src="ruphin.png" width="150" style="border-radius: 50%;" alt="Photo de profil" />
     </td>
     <td width="75%" align="center">
       <a href="https://git.io/typing-svg">
