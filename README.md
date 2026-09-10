@@ -48,7 +48,7 @@ Je me passionne pour la création de solutions technologiques sécurisées et in
 
 ## STACK TECHNIQUE
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
@@ -61,9 +61,11 @@ Je me passionne pour la création de solutions technologiques sécurisées et in
 
 ## STATISTIQUES GITHUB
 
+<div align="center">
 <div style="text-align: center;">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruphin87&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ruphin87&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
 </div>
 
 ---
