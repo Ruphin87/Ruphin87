@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td width="25%" align="center">
-      <img src="ruphin.png" width="150" alt="Photo de profil" style="border-radius: 50%; border: 4px solid #2A9DF4;" />
+      <img src="ruphin.png" width="150" height="150" alt="Photo de profil" style="border-radius: 50%; border: 4px solid #2A9DF4; object-fit: cover;" />
     </td>
     <td width="75%" align="center">
       <a href="https://git.io/typing-svg">
