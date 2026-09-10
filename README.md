@@ -3,15 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Bienvenue!&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
 </div>
 
-<table>
-  <tr>
-    <td width="75%" align="center">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A9DF4&center=true&vCenter=true&width=600&lines=Bienvenue+dans+mon+profile+Github%2C;Cybers%C3%A9curit%C3%A9+%26+Intelligence+Artificielle;Syst%C3%A8me+Embarqu%C3%A9+%26+IOT;D%C3%A9veloppement+Application+(Web%2C+mobile)" alt="Typing SVG" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A9DF4&center=true&vCenter=true&width=700&lines=Bienvenue+dans+mon+profile+Github%2C;Cybers%C3%A9curit%C3%A9+%26+Intelligence+Artificielle;Syst%C3%A8me+Embarqu%C3%A9+%26+IOT;D%C3%A9veloppement+Application+(Web%2C+mobile)" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/ton-profil">
@@ -63,10 +59,10 @@ Je me passionne pour la création de solutions technologiques sécurisées et in
 
 ---
 
-## STATISTIQUE GITHUB
+## STATISTIQUES GITHUB
 
 <div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruphin87&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Ruphin87&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ruphin87&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
 
