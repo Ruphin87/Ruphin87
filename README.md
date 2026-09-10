@@ -62,8 +62,8 @@ Je me passionne pour la création de solutions technologiques sécurisées et in
 ## STATISTIQUES GITHUB
 
 <div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=github.com/Ruphin87&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/Ruphin87&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruphin87&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruphin87&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
 ---
