@@ -1,7 +1,7 @@
 <!-- BANNIÈRE DYNAMIQUE ET ANIMATION D'ACCUEIL -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=100&lines=Ruphin+Henri+RATAHINJANAHARY;Etudiant+a+l%27ENI+|+IoT,+Cybersecurite+%26+IA;Passionne+par+le+Developpement+%26+l%27IoT" alt="Header Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=100&lines=Ruphin+Henri+RATAHINJANAHARY;Compétant en Cybersecurite+%26+Intelligence Artificielle;Passionne+par+le+Developpement+%26+l%27IoT" alt="Header Typing SVG" />
   </a>
 </p>
 
@@ -13,8 +13,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruphin-henri-ratahinjanahary-635027420"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-   <img src="https://img.shields.io/badge/Status-IA_%26_Cybersecurité-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-IoT_%26_Systeme Embarqué-green?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Focus-IA_%26_Cybersecurité-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-IoT_%26_Systeme Embarqué-green?style=for-the-badge" />
 </p>
 
 ---
