@@ -63,7 +63,7 @@ Je me passionne pour la création de solutions technologiques sécurisées et in
 
 <div align="center">
 <div style="text-align: center;">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruphin-GitPro&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruphin87&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ruphin87&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
 </div>
